@@ -30,7 +30,7 @@ item.instance = "例項";
 // Uninstance the object, make the object real
 item.uninstance = "去例項";
 // Clone an item (object, tool, etc)
-item.clone = "克隆";
+item.clone = "複製";
 // Delete an item (object, tool, etc)
 item.delete = "刪除";
 item.delete.confirm = "請確認是否刪除？";
@@ -302,7 +302,7 @@ camera.doubleTapFocus.help = "雙擊物體表面後檢視中心將移動至該�
 // Toolbox context (when expanded), multiple objects are selected
 context.multiselection = "選擇多項";
 // There is 0 nodes/items selected
-context.noSelection = "無選中項";
+context.noSelection = "無選中對象";
 
 // Curve type, presets lets the user chooses between predefined curves
 curve.preset = "預設";
@@ -1008,7 +1008,7 @@ menu.settings = "設定";
 // Menu name
 menu.interface = "介面";
 // Menu name
-menu.bindings = "繫結";
+menu.bindings = "綁定";
 // Menu name
 menu.history = "歷史記錄";
 // Menu name
